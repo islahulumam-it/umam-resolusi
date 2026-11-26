@@ -1,3 +1,4 @@
 UMAM RESOLUSI
 - Belajar Git dan Github
-- Menyelesaikan resolusi
+- Menyelesaikan skill tree
+- Menguasai linux
