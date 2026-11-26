@@ -1,4 +1,4 @@
 UMAM RESOLUSI
 - Belajar Git dan Github
 - Menyelesaikan skill tree
-- Menguasai linux
+- Menguasai tcp/ip
